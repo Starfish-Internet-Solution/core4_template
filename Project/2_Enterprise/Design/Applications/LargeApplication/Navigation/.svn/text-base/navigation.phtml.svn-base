@@ -1,5 +1,0 @@
-application links:<br>
-
-<?foreach($this->__get('navigation_array') as $menu):?>
-	<a href="/large/<?=$menu?>"><?=$menu?></a><br>
-<?endforeach;?>

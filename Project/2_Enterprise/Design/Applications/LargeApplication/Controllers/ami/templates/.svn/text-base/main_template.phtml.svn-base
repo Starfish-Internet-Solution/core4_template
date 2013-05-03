@@ -1,4 +1,0 @@
-<?=$this->__get('ami_var')?><br>
-
-
-ami template

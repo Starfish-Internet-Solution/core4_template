@@ -1,92 +1,0 @@
-10
-
-dir
-98
-http://192.168.0.100/projects/starfish/Project/2_Enterprise/Code/Applications
-http://192.168.0.100/projects/starfish
-
-
-
-2013-04-08T00:43:11.658203Z
-97
-starfish
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-a2373b5d-3d01-0010-8fdc-4ff3e0b67301
-
-Articles
-dir
-
-Content_Management_System
-dir
-
-LargeApplication
-dir
-
-Photo_Library
-dir
-
-Products
-dir
-
-Settings_Manager
-dir
-
-SmallApplication
-dir
-
-UserAccount
-dir
-
-User_Account
-dir
-
-User_Account_Admin
-dir
-
-applications_routing.xml
-file
-
-
-
-
-2013-04-17T11:26:10.748000Z
-99d8502e6ed12f35cbe319445ed5f695
-2013-03-14T08:42:38.848007Z
-63
-starfish
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7105
-
