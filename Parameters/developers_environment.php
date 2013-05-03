@@ -2,7 +2,7 @@
 //====================================================================================================
 //Define the ENVIRONMENT
 define ('ENVIRONMENT', 'devel');
-
+//try
 //====================================================================================================
 //Define the LANGUAGE 
 //Comment out this whole block if the website is not Multidomain AND multilingual
