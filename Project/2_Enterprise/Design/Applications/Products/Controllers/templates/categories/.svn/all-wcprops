@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/projects/starfish/!svn/ver/97/Project/2_Enterprise/Design/Applications/Products/Controllers/templates/categories
+END
+delete_category_dialog.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/projects/starfish/!svn/ver/97/Project/2_Enterprise/Design/Applications/Products/Controllers/templates/categories/delete_category_dialog.phtml
+END
+add_category_dialog.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/projects/starfish/!svn/ver/97/Project/2_Enterprise/Design/Applications/Products/Controllers/templates/categories/add_category_dialog.phtml
+END
+category_sidebar.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/projects/starfish/!svn/ver/97/Project/2_Enterprise/Design/Applications/Products/Controllers/templates/categories/category_sidebar.phtml
+END
+category_editor.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/projects/starfish/!svn/ver/82/Project/2_Enterprise/Design/Applications/Products/Controllers/templates/categories/category_editor.phtml
+END

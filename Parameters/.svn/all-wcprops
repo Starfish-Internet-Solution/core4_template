@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/projects/starfish/!svn/ver/5/Parameters
+END
+developers_environment.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/starfish/!svn/ver/99/Parameters/developers_environment.php
+END
+staging_environment.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/starfish/!svn/ver/1/Parameters/staging_environment.php
+END
+framework_directory_structure.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/starfish/!svn/ver/1/Parameters/framework_directory_structure.php
+END
+live_environment.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/starfish/!svn/ver/99/Parameters/live_environment.php
+END

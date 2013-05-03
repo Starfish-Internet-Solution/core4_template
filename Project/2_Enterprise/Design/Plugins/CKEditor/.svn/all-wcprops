@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/starfish/!svn/ver/99/Project/2_Enterprise/Design/Plugins/CKEditor
+END
+CHANGES.md
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/starfish/!svn/ver/99/Project/2_Enterprise/Design/Plugins/CKEditor/CHANGES.md
+END
+ckeditor.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/starfish/!svn/ver/99/Project/2_Enterprise/Design/Plugins/CKEditor/ckeditor.js
+END
+css_link.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projects/starfish/!svn/ver/99/Project/2_Enterprise/Design/Plugins/CKEditor/css_link.phtml
+END
+LICENSE.md
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/starfish/!svn/ver/99/Project/2_Enterprise/Design/Plugins/CKEditor/LICENSE.md
+END
+contents.scss
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/starfish/!svn/ver/99/Project/2_Enterprise/Design/Plugins/CKEditor/contents.scss
+END
+config.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/starfish/!svn/ver/120/Project/2_Enterprise/Design/Plugins/CKEditor/config.js
+END
+styles.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/starfish/!svn/ver/99/Project/2_Enterprise/Design/Plugins/CKEditor/styles.js
+END
+build-config.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projects/starfish/!svn/ver/99/Project/2_Enterprise/Design/Plugins/CKEditor/build-config.js
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/starfish/!svn/ver/99/Project/2_Enterprise/Design/Plugins/CKEditor/README.md
+END
+js_link.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/starfish/!svn/ver/99/Project/2_Enterprise/Design/Plugins/CKEditor/js_link.phtml
+END
+contents.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/starfish/!svn/ver/99/Project/2_Enterprise/Design/Plugins/CKEditor/contents.css
+END

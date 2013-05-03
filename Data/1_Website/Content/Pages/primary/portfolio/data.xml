@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<data>
+	<metadata>
+		<page_title_element>Starfish Internet Solutions</page_title_element>
+		<meta_title>Clean, competitively-priced website design and website applications based in Manila, Philippines. We provide a complete service and expertise to our clients worldwide.</meta_title>
+		<meta_keywords>web design philippines, website design philippines, web design manila, ecommerce website, business site, web development, web application, CMS, cheap web design, SEO services</meta_keywords>
+		<meta_description>Starfish Internet Solution, a web design agency in Manila, Philippines that makes affordable business websites. We produce high quality and elegant web designs at a competitive price.</meta_description>
+	</metadata>
+	<page_content_editor><![CDATA[<p>.</p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:500px">
+	<tbody>
+		<tr>
+			<td><img alt="Place caption here." src="/Data/Images/Cars_album/1024x1024/SEAT_TOLEDO_by_BADH13.jpg" style="height:148px; width:250px" title="SEAT_TOLEDO_by_BADH13" /></td>
+			<td><img alt="the new subaru impreza coupe" src="/Data/Images/Cars_album/1024x1024/SUBAR_IMPREZA_by_BADH13.jpg" style="height:167px; width:250px" title="SUBAR_IMPREZA_by_BADH13" /></td>
+			<td><img alt="Place caption here." src="/Data/Images/Cars_album/1024x1024/Toyota-Supra-2014-450x299.jpg" style="height:166px; width:250px" title="Toyota-Supra-2014-450x299" /></td>
+		</tr>
+		<tr>
+			<td>// public function getMetaData($dataType)<br />
+			&nbsp; // {<br />
+			&nbsp; // &nbsp;&nbsp; &nbsp; $metadata = $this->$dataType;<br />
+			&nbsp; // &nbsp;&nbsp; &nbsp; return &#39;%%&#39;.$dataType.&#39;%%&#39;;<br />
+			&nbsp; // }<br />
+			&nbsp; &nbsp;&nbsp;<br />
+			&nbsp; &nbsp;//all xml files can have metadata, if there are then extract it<br />
+			&nbsp; &nbsp;//the main should have some that are not in the subpages i.e author<br />
+			&nbsp; &nbsp;//Should be in this form at the&nbsp;<br />
+			&nbsp; &nbsp;/*<br />
+			&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<metadata><br />
+			&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<page_title_element>dsdssds</page_title_element><br />
+			&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<meta_title>Destiny Diamonds - leader in black diamonds</meta_title><br />
+			&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<meta_keywords>black diamonds, carbonado</meta_keywords><br />
+			&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<meta_description>Black diamond jewelry, bespoke design, here in Manila, Philippines</meta_description><br />
+			&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<meta_author>Starfish Internet Solutions</meta_author><br />
+			&nbsp;&nbsp; &nbsp;</metadata><br />
+			&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;*/</td>
+			<td>// public function getMetaData($dataType)<br />
+			&nbsp; // {<br />
+			&nbsp; // &nbsp;&nbsp; &nbsp; $metadata = $this->$dataType;<br />
+			&nbsp; // &nbsp;&nbsp; &nbsp; return &#39;%%&#39;.$dataType.&#39;%%&#39;;<br />
+			&nbsp; // }<br />
+			&nbsp; &nbsp;&nbsp;<br />
+			&nbsp; &nbsp;//all xml files can have metadata, if there are then extract it<br />
+			&nbsp; &nbsp;//the main should have some that are not in the subpages i.e author<br />
+			&nbsp; &nbsp;//Should be in this form at the&nbsp;<br />
+			&nbsp; &nbsp;/*<br />
+			&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<metadata><br />
+			&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<page_title_element>dsdssds</page_title_element><br />
+			&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<meta_title>Destiny Diamonds - leader in black diamonds</meta_title><br />
+			&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<meta_keywords>black diamonds, carbonado</meta_keywords><br />
+			&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<meta_description>Black diamond jewelry, bespoke design, here in Manila, Philippines</meta_description><br />
+			&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<meta_author>Starfish Internet Solutions</meta_author><br />
+			&nbsp;&nbsp; &nbsp;</metadata><br />
+			&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;*/</td>
+			<td>// public function getMetaData($dataType)<br />
+			&nbsp; // {<br />
+			&nbsp; // &nbsp;&nbsp; &nbsp; $metadata = $this->$dataType;<br />
+			&nbsp; // &nbsp;&nbsp; &nbsp; return &#39;%%&#39;.$dataType.&#39;%%&#39;;<br />
+			&nbsp; // }<br />
+			&nbsp; &nbsp;&nbsp;<br />
+			&nbsp; &nbsp;//all xml files can have metadata, if there are then extract it<br />
+			&nbsp; &nbsp;//the main should have some that are not in the subpages i.e author<br />
+			&nbsp; &nbsp;//Should be in this form at the&nbsp;<br />
+			&nbsp; &nbsp;/*<br />
+			&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<metadata><br />
+			&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<page_title_element>dsdssds</page_title_element><br />
+			&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<meta_title>Destiny Diamonds - leader in black diamonds</meta_title><br />
+			&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<meta_keywords>black diamonds, carbonado</meta_keywords><br />
+			&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<meta_description>Black diamond jewelry, bespoke design, here in Manila, Philippines</meta_description><br />
+			&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<meta_author>Starfish Internet Solutions</meta_author><br />
+			&nbsp;&nbsp; &nbsp;</metadata><br />
+			&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;*/</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>&#39;;<br />
+			&nbsp;&nbsp; &nbsp;$content .=&#39;</td>
+			<td>og_image.&#39;\" />&#39;;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+]]></page_content_editor>
+</data>
